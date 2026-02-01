@@ -27,17 +27,24 @@ I like figuring out how things work—and building a few small projects along th
 
 ---
 
-### 03. Exploration Log
+### Exploration Log
 * **Systems & CLI:** Building small-scale tools to understand the terminal and OS.
 * **Cross-Platform:** Experimenting with mobile logic via Flutter.
 * **Low-Level:** Diving into memory and logic with C, C++, and Rust.
 
 ---
 
-### 04. Current Momentum
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aman-sanin/aman-sanin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+---
+
+### Current Momentum
 > "Learn → Try → Break → Fix → Repeat"
 
 ---
 
-### 05. Connectivity
+### Connectivity
 [Email](mailto:amansanin.opus@gmail.com) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/aman-sanin-2b94862b7/)
